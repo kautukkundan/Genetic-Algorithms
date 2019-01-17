@@ -9,3 +9,4 @@ Genetic algorithms are optimization algorithms that are based on the principle o
 
 ### To-do
 1. Add code
+2. Update text
